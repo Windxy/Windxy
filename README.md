@@ -1,10 +1,9 @@
 ### I'm SmallWind👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Windxy)](https://github.com/anuraghazra/github-readme-stats)
-- 📦 Master degree candidate 
-- 🎓 Chang'an University
+- 🎓 Master degree candidate in Chang'an University
 - 🌱 I’m currently learning and working on Deep-learning, Computer Vision & PyTorch
-- :fire: Classic_Network_PyTorch https://github.com/Windxy/Classic_Network_PyTorch
-
+- :fire: Classic_Network_PyTorch <https://github.com/Windxy/Classic_Network_PyTorch>
+- :fire: Algorithm learning <https://github.com/Windxy/Algorithm>
 <!--
 **Windxy/Windxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📖
+- 📖📦
 
 <img src="https://github-profile-trophy.vercel.app/?username=Windxy&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 

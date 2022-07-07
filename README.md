@@ -2,10 +2,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Windxy)](https://github.com/anuraghazra/github-readme-stats)
 - 🎓 Master degree candidate in Chang'an University
 - 🌱 I’m currently learning and working on Deep-learning, Computer Vision & PyTorch
-- :fire: Classic_Network_PyTorch <https://github.com/Windxy/Classic_Network_PyTorch>
-- :fire: Algorithm learning <https://github.com/Windxy/Algorithm>
-- :fire: Tutorial For OpenCV-Python <https://github.com/Windxy/Tutorial_OpenCV_Python>
-- :fire: Classic_Object_Detection <https://github.com/Windxy/Easy-Object-Detection>
+- :fire: 经典卷积网络架构的复现 Classic_Network_PyTorch <https://github.com/Windxy/Classic_Network_PyTorch>
+- :fire: 数据结构、算法学习与总结 Algorithm learning <https://github.com/Windxy/Algorithm>
+- :fire: OpenCV中文教程 Tutorial For OpenCV-Python <https://github.com/Windxy/Tutorial_OpenCV_Python>
+- :fire: 经典目标检测架构的复现Classic_Object_Detection <https://github.com/Windxy/Easy-Object-Detection>
 <!--
 **Windxy/Windxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

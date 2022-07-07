@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning and working on Deep-learning, Computer Vision & PyTorch
 - :fire: Classic_Network_PyTorch <https://github.com/Windxy/Classic_Network_PyTorch>
 - :fire: Algorithm learning <https://github.com/Windxy/Algorithm>
+- :fire: Tutorial For OpenCV-Python <https://github.com/Windxy/Tutorial_OpenCV_Python>
+- :fire: Classic_Object_Detection <https://github.com/Windxy/Easy-Object-Detection>
 <!--
 **Windxy/Windxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

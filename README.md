@@ -6,6 +6,7 @@
 - :fire: 数据结构、算法学习与总结 Algorithm learning <https://github.com/Windxy/Algorithm>
 - :fire: OpenCV中文教程 Tutorial For OpenCV-Python <https://github.com/Windxy/Tutorial_OpenCV_Python>
 - :fire: 经典目标检测架构的复现Classic_Object_Detection <https://github.com/Windxy/Easy-Object-Detection>
+- :fire: 经典语义分割架构的复现Classic_Semantic_Segmentation <https://github.com/WYH67/Semantic-segmentation>
 <!--
 **Windxy/Windxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

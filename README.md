@@ -1,7 +1,7 @@
 ### I'm SmallWind👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Windxy)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently working on Deep-learning, Computer Vision, NLP & LLMs related to Eduction AI.
 - 🎓 Graduate student of Chang 'an University in 2023.
-- 🌱 I’m currently learning and working on Deep-learning, Computer Vision & PyTorch
 - :fire: 经典卷积网络架构的复现 Classic_Network_PyTorch <https://github.com/Windxy/Classic_Network_PyTorch>
 - :fire: 数据结构、算法学习与总结 Algorithm learning <https://github.com/Windxy/Algorithm>
 - :fire: OpenCV中文教程 Tutorial For OpenCV-Python <https://github.com/Windxy/Tutorial_OpenCV_Python>
